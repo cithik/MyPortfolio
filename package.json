@@ -1,0 +1,26 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "******** Description ******  A responsive website  was developed that will display images, descriptions and  links to each of the portfolio projects I completed throughout the course of  my Masters degree and Nanodegree program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cithik/MyPortfolio.git"
+  },
+  "keywords": [
+    "grunt",
+    "keywords"
+  ],
+  "author": "kriti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cithik/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/cithik/MyPortfolio#readme",
+  "devDependencies": {
+    "grunt-sass": "^2.0.0"
+  }
+}
