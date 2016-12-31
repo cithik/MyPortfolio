@@ -1,5 +1,5 @@
-body, html{
-    font-family: 'Lato', sans-serif;
+body, html {
+    font-family: "Lato", sans-serif;
     font-weight: 300;
     margin-left: auto;
     margin-right: auto;
@@ -22,16 +22,22 @@ svg#title-logo {
     float: left;
 }
 
-hr{
+hr {
     height: 3px;
     background-color: #7d97ad;
 }
 
-header, nav, footer, section, article, div {
+header,
+nav,
+footer,
+section,
+article,
+div {
     box-sizing: border-box;
 }
 
-a, h3{
+a,
+h3 {
     color: #2d3c49;
 }
 
@@ -41,18 +47,18 @@ picture#banner img {
     box-sizing: border-box;
 }
 
-#myname{
+div#myname {
     float: right;
 }
 
-.text-muted{
+.text-muted {
     color: #7d97ad;
 }
-.text-thin{
+.text-thin {
     font-weight: 100;
 }
 
-.title-super{
+.title-super {
     font-size: 50px;
     margin: 0.5em 0.25em;
     display: inline-block;
@@ -61,11 +67,11 @@ picture#banner img {
 }
 
 
-.img-responsive{
+.img-responsive {
     max-width: 100%;
 }
 
-.container{
+.container {
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
@@ -73,7 +79,7 @@ picture#banner img {
     flex-wrap: wrap;
 }
 
-.row{
+.row {
     width: 100%;
 }
 
@@ -84,22 +90,17 @@ section {
 article {
     display: flex;
     flex-direction: column;
-    margin: 3vh 0 3vh 0;
+    margin: 3vh 0;
 }
 
-img{
+img {
     max-width: 100%;
 }
 
 footer {
-    border-top: 1px solid #E0E0E0;
+    border-top: 1px solid #e0e0e0;
     padding: 1em;
     width: 100%;
-}
-
-footer li {
-    display: inline-block;
-    margin: 0 1em;
 }
 
 footer a {

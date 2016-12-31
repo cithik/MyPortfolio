@@ -3,48 +3,50 @@
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 615px){
-    body{
+@media screen and (max-width: 615px) {
+    body {
         background-color: pink;
     }
 
-    .text-uppercase{
+    .text-uppercase {
         width: 75%;
     }
 
-    .title-logo, .title-super, .name2{
+    .title-logo,
+    .title-super,
+    .name2 {
         display: inline-block;
         font-size: 25px;
     }
 
-    .container{
+    .container {
         margin-left: auto;
         margin-right: auto;
         display: block;
     }
-    .title-super{
+    .title-super {
         order: 1;
         margin: 0.5em 0.25em;
         position: relative;
     }
 }
 
-@media screen and (min-width: 615px) and (max-width: 1001px){
-    body{
+@media screen and (min-width: 615px) and (max-width: 1001px) {
+    body {
         background-color: cyan;
     }
 
-    .text-uppercase{
+    .text-uppercase {
         width: 75%;
     }
 
-    .title-logo{
+    .title-logo {
         margin-top: 20px;
     }
 }
 
-@media screen and (min-width: 821px){
-    .container{
+@media screen and (min-width: 821px) {
+    .container {
         margin-left: auto;
         margin-right: auto;
         display: block;
