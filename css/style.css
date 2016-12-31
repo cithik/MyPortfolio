@@ -1,6 +1,5 @@
 body, html{
     font-family: 'Lato', sans-serif;
-    /*color: #747704;*/
     font-weight: 300;
     margin-left: auto;
     margin-right: auto;
@@ -16,9 +15,11 @@ h1, h2, h3, h4, h5 {
 svg#title-logo {
     fill: black;
     height: 6vw;
-    /*margin: 0.5em 0.25em;*/
     margin-top: 20px;
     width: 6vw;
+    -webkit-filter: drop-shadow(3px 3px 3px #ddd);
+    filter: drop-shadow(3px 3px 3px #ddd);
+    float: left;
 }
 
 hr{
@@ -32,6 +33,16 @@ header, nav, footer, section, article, div {
 
 a, h3{
     color: #2d3c49;
+}
+
+picture#banner img {
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+
+#myname{
+    float: right;
 }
 
 .text-muted{
@@ -55,7 +66,7 @@ a, h3{
 }
 
 .container{
-     margin-left: auto;
+    margin-left: auto;
     margin-right: auto;
     max-width: 100%;
     display: flex;
@@ -67,14 +78,13 @@ a, h3{
 }
 
 section {
-  margin: 3vh 0 3vh 0;
+    margin: 3vh 0 3vh 0;
 }
 
 article {
-  display: flex;
-  flex-direction: column;
-    margin: 0 0 3vh 0;
-  /*max-width: 50em;*/
+    display: flex;
+    flex-direction: column;
+    margin: 3vh 0 3vh 0;
 }
 
 img{

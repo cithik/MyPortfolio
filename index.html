@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta id="theme-color" name="theme-color" content="#307699">
+    <title>My Portfolio</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <script type="text/javascript" src="js/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+</head>
+
+<body>
+<div class="container">
+    <header class="header">
+        <div class="row" id="header-inner">
+            <div class="col-md-6">
+                <svg id="title-logo" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                     viewBox="0 0 24 24">
+                    <title>Responsive logo</title>
+                    <path d="M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31
+                    20H20v-4.69L23.31 12 20 8.69zM12 18c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6
+                    6zm0-10c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"></path>
+                </svg>
+            </div>
+            <div id="myname" class="col-md-6 text-right text-uppercase">
+                <h2 class="title-super text-thin"><b>Krithika Coomaraswami</b></h2>
+                <h3 class="name2">Project Portfolio</h3>
+            </div>
+        </div>
+    </header>
+    <article>
+        <div class="row">
+            <div class="col-md-12">
+                <hr>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <picture id="banner">
+                    <source media="(min-width: 750px)" srcset="images/banner-large_large_1x.jpeg"/>
+                    <source media="(min-width: 500px)" srcset="images/banner-medium_medium.jpeg"/>
+                    <img src="images/banner-small_small.jpeg" alt="banner-image">
+                </picture>
+            </div>
+
+        </div>
+
+        <section>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="text-muted">✍ Featured Work</h2>
+                </div>
+            </div>
+            <div class="row text-center" id="1">
+                <div class="col-md-6">
+                    <figure>
+                        <picture>
+                            <source media="(min-width: 750px)" srcset="images/movietrailer-large_large_1x.jpg" />
+                            <source media="(min-width: 500px)" srcset="images/movietrailer-medium_medium.jpg" />
+                            <img src="images/movietrailer-small_small.jpg" alt="Movie-trailer-image"
+                                 data-toggle="modal"
+                                 data-target="#project1">
+                        </picture>
+                        <figcaption><h3>Movie Trailer Website</h3></figcaption>
+                    </figure>
+                    <p><a href="https://github.com/cithik/MovieTrailerWebsite">https://github.com/cithik/MovieTrailerWebsite
+                    </a></p>
+                </div>
+                <div class="col-md-6" id="2">
+                    <figure>
+                        <picture>
+                            <source media="(min-width: 750px)" srcset="images/blog-large_large_1x.jpg" />
+                            <source media="(min-width: 500px)" srcset="images/blog-medium_medium.jpg" />
+                            <img src="images/blog-small_small.jpg" alt="blog-image"
+                                 data-toggle="modal" data-target="#project2">
+                        </picture>
+                        <figcaption><h3>Multi User Blog</h3></figcaption>
+                    </figure>
+                    <p><a href="https://github.com/cithik/MultiUserBlog">https://github.com/cithik/MultiUserBlog</a></p>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-6" id="3">
+                    <figure>
+                        <picture>
+                            <source media="(min-width: 750px)" srcset="images/SmarterFarm-large_large_1x.jpg" />
+                            <source media="(min-width: 500px)" srcset="images/SmarterFarm-medium_medium.jpg" />
+                            <img src="images/SmarterFarm-small_small.jpg" alt="farm-image"
+                                 data-toggle="modal" data-target="#project3">
+                        </picture>
+                        <figcaption><h3>Smarter Farm</h3></figcaption>
+                    </figure>
+                    <p><a href="https://github.com/cithik/SmarterFarm">https://github.com/cithik/SmarterFarm</a></p>
+                </div>
+                <div class="col-md-6" id="4">
+                    <figure>
+                        <picture>
+                            <source media="(min-width: 750px)" srcset="images/healthcare-large_large_1x.jpg" />
+                            <source media="(min-width: 500px)" srcset="images/healthcare-medium_medium.jpg" />
+                            <img src="images/healthcare-small_small.jpg" alt="healthcare-image"
+                                 data-toggle="modal" data-target="#project4">
+                        </picture>
+                        <figcaption><h3>Healthcare Management System</h3></figcaption>
+                    </figure>
+                    <p><a href="https://github.com/cithik/Healthcare-Management-System">https://github.com/cithik/
+                        Healthcare-Management-System</a></p>
+                </div>
+            </div>
+        </section>
+    </article>
+</div>
+<div class="modal fade" id="project1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabel"><b>Project #1 Description</b></h4>
+            </div>
+            <div class="modal-body">
+                Wrote server-side code in Python, HTML and CSS to store a list of favorite movies, including box art
+                imagery and a movie trailer URL. This data was served as a web page allowing visitors to review their
+                movies and watch the trailers.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="project2" tabindex="-1" role="dialog" aria-labelledby="myModalLabe2" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabe2"><b>Project #2 Description</b></h4>
+            </div>
+            <div class="modal-body">
+                This blog was created in Python, HTML and jinja2 template and was hosted on Google App Engine and also,
+                an authentication system was created for users to be able to register and sign in and then create blog
+                posts.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="project3" tabindex="-1" role="dialog" aria-labelledby="myModalLabe3" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabe3"><b>Project #3 Description</b></h4>
+            </div>
+            <div class="modal-body">
+                Developed a mobile, farm managing web site using HTML, CSS and JavaScript to extend agriculture to new
+                areas of economy following various UX principles.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="project4" tabindex="-1" role="dialog" aria-labelledby="myModalLabe4" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabe4"><b>Project #4 Description</b></h4>
+            </div>
+            <div class="modal-body">
+                Developed a distribution model in Java to support multiple roles and interactive UI using java Swing
+                components. Implemented roles for employees to give various levels of access to patient records.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="row text-center">
+    <ul>
+        <li><a href="http://www.linkedin.com/in/krithikacoomaraswami">Linkedin Profile</a></li>
+        <li>✆ Contact: 617-595-0810</li>
+        <li>✉ Email: coomaraswami.k@husky.neu.edu</li>
+    </ul>
+</footer>
+</body>
+</html>

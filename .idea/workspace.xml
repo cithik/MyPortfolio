@@ -2,20 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1cbc77-f392-45c0-90a8-415d59d14ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/cockatoos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/grasshopper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/horses.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/postcard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/rosella.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/sfo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/still_life.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images_src/volt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/404 Not Found.html" afterPath="$PROJECT_DIR$/images_src/404 Not Found.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/hero.png" afterPath="$PROJECT_DIR$/images_src/hero.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-prestructure.html" afterPath="$PROJECT_DIR$/bootstrap-prestructure.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cockatoos-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cockatoos-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cockatoos-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/grasshopper-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/grasshopper-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/grasshopper-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hero-large_large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hero-medium_medium.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hero-small_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/horses-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/horses-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/horses-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/postcard-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/postcard-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/postcard-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rosella-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rosella-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rosella-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sfo-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sfo-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sfo-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/still_life-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/still_life-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/still_life-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/volt-large_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/volt-medium_medium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/volt-small_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/cockatoos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/grasshopper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/hero.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/horses.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/postcard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/rosella.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/sfo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/still_life.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images_src/volt.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-prestructure.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,18 +58,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bootstrap-prestructure.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-prestructure.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#section#0;n#article#0;n#div#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="1845">
+              <caret line="123" column="92" lean-forward="false" selection-start-line="123" selection-start-column="92" selection-end-line="123" selection-end-column="92" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,18 +71,8 @@
       <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="27" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+            <state relative-caret-position="645">
+              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -70,8 +81,20 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="-45">
+              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,9 +103,21 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="109" lean-forward="false" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+              <folding>
+                <marker date="1483168575000" expanded="true" signature="575:672" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +126,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>img-responsive</find>
+      <find>banner</find>
       <find>sectio</find>
     </findStrings>
   </component>
@@ -103,11 +140,12 @@
         <option value="$PROJECT_DIR$/css/media3.css" />
         <option value="$PROJECT_DIR$/css/media2.css" />
         <option value="$PROJECT_DIR$/css/media1.css" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/bootstrap-prestructure.html" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -188,6 +226,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPortfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPortfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -482,7 +534,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18795888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -506,17 +558,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap-prestructure.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#section#0;n#article#0;n#div#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -532,7 +578,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1483168575000" expanded="true" signature="575:672" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -540,7 +588,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -555,26 +605,10 @@
     <entry file="file://$PROJECT_DIR$/css/media2.css" />
     <entry file="file://$PROJECT_DIR$/css/media1.css" />
     <entry file="file://$PROJECT_DIR$/css/media3.css" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images_src/404 Not Found.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -585,11 +619,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images_src/hero.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
@@ -608,40 +637,169 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/puppy2-30pc_small.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/puppy-30pc_small.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/puppy-40pc_medium.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/puppy-50pc_large_1x.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/puppy2-40pc_medium.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/puppy2-50pc_large_1x.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/puppy.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/puppy2.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/movietrailer-40pc_medium.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hero-555x300_large_1x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog-555x300_large_1x.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/movietrailer-30pc_small.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/movietrailer-50pc_medium.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/movietrailer-555x300_large_1x.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/movietrailer-medium_medium.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/blog.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/movietrailer.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/SmarterFarm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/healthcare.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/healthcare-medium_medium.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/banner.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="645">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_src/hero.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-prestructure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="-45">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#section#0;n#article#0;n#div#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        <state relative-caret-position="1620">
+          <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <marker date="1483168575000" expanded="true" signature="575:672" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="109" lean-forward="false" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="92" lean-forward="false" selection-start-line="123" selection-start-column="92" selection-end-line="123" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
